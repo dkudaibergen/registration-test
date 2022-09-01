@@ -1,0 +1,8 @@
+ruby "3.1.1"
+
+source 'http://rubygems.org'
+
+gem 'cucumber'
+gem 'selenium-webdriver', '~> 4.1'
+gem 'capybara'
+gem 'capybara-email', '3.0.1'
